@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🔭 I’m currently working on **Travel App**<br><br>- 🌱 I’m currently learning **NextJS**<br><br>- 📫 How to reach me **monaminandy2201@gmail.com**<br>
+<br>- 🌱 I’m currently learning **NextJS**<br><br>- 💬 Ask me about **C, Python, MySQL** <br><br>-📫 How to reach me **monaminandy2201@gmail.com**<br>
 
 
 ## 🌐 Socials:
