@@ -1,3 +1,6 @@
+
+![gitartwork](gitartwork.svg)
+
 # 💫 About Me:
 <br>- 🌱 I’m currently learning **NextJS**<br><br>- 💬 Ask me about **C, Python, MySQL** <br><br>-📫 How to reach me **monaminandy2201@gmail.com**<br>
 
