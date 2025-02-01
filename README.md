@@ -2,7 +2,7 @@
 ![gitartwork](gitartwork.svg)
 
 # 💫 About Me:
-<br>- 🌱 I’m currently learning **Web Development**<br><br>- 💬 Ask me about **C, Python, MySQL** <br><br>-📫 How to reach me **monaminandy2201@gmail.com**<br>
+<br>- 🌱 I’m currently learning **Pandas**<br><br>- 💬 Ask me about **C, Python, MySQL** <br><br>-📫 How to reach me **monaminandy2201@gmail.com**<br>
 
 
 ## 🌐 Socials:
